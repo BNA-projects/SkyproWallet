@@ -76,7 +76,7 @@ Extended analytics and data visualization
 🏗️ Installation
 
 # Clone the repository
-git clone https://github.com/nata2864/SkyproWallet.git
+git clone https://github.com/BNA-projects/SkyproWallet.git
 
 # Navigate to the project folder
 cd skyprowallet
